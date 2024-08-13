@@ -29,3 +29,17 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
+  git clone https://github.com/essienricch/toUpper-Dapp.git
+    ```
+2. Install NPM packages
+   ```sh
+   yarn  install
+   ```
+3. Build and run the dapp via `cartesi-cli`
+   ```sh
+   cartesi build 
+   ```
+   and
+   ```sh
+   cartesi run 
+   ```
